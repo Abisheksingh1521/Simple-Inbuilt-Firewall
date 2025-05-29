@@ -1,0 +1,18 @@
+tcp
+Port 22: SSH (Secure Shell)
+Port 80: HTTP (Hypertext Transfer Protocol)
+Port 443: HTTPS (HTTP Secure)
+Port 25: SMTP (Simple Mail Transfer Protocol)
+Port 21: FTP (File Transfer Protocol)
+Port 3306: MySQL Database
+Port 5432: PostgreSQL Database
+Port 389: LDAP (Lightweight Directory Access Protocol)
+Port 1433: Microsoft SQL Server Database
+Port 3389: RDP (Remote Desktop Protocol)
+Port 5900: VNC (Virtual Network Computing)
+UDP Ports:
+Port 53: DNS (Domain Name System)
+Port 123: NTP (Network Time Protocol)
+Port 161: SNMP (Simple Network Management Protocol)
+Port 137-139: NetBIOS over TCP/IP (Windows File Sharing)
+Port 514: Syslog (System Logging)
